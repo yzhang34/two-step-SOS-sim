@@ -2,7 +2,7 @@
 
 This is the repository of a Matlab GUI program that can replicate the simulation, i.e., Figs. 11 and 12,  performed in the following publication:
 
-- Y. Zhang et al., “Super-resolution fluorescence microscopy by stepwise optical saturation,” Biomed. Opt. Express, vol. 9, no. 4, p. 1613, Apr. 2018.
+- [Y. Zhang et al., “Super-resolution fluorescence microscopy by stepwise optical saturation,” Biomed. Opt. Express, vol. 9, no. 4, p. 1613, Apr. 2018.](https://www.osapublishing.org/abstract.cfm?URI=boe-9-4-1613)
 ```latex
 @article{Zhang2018,
   author = {Zhang, Yide and Nallathamby, Prakash D. and Vigil, Genevieve D. and Khan, Aamir Ahmed and Mason, Devon E. and Boerckel, Joel D. and Roeder, Ryan K. and Howard, Scott S.},
